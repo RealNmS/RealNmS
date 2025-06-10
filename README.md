@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realnms" alt="realnms" /></a> </p>
 
-- 🔭 I’m currently working on [NmS' Rocket Launcher Mod](https://github.com/RealNmS/NmS-Rocket-Launcher-Mod)
+- 🔭 I’m currently working on [NmS' Rocket Launcher Mod](https://github.com/RealNmS/NmS-Rocket-Launcher-Mod) & OwlBot Dashboard (currently secret)
 
 - 💬 Ask me about **my music**
 
