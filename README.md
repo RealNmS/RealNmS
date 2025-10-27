@@ -24,7 +24,7 @@
     </td>
     <td align="center">
       🚀 <strong>Currently working on:</strong><br/>
-      <a href="https://github.com/RealNmS/NmS-Rocket-Launcher-Mod" target="_blank"><code>NmS Rocket Launcher Mod</code></a>
+      OwlBot Dashboard
     </td>
     <td align="center">
       🧪 <strong>Fun fact:</strong><br/>
