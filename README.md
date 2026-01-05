@@ -24,7 +24,8 @@
     </td>
     <td align="center">
       🚀 <strong>Currently working on:</strong><br/>
-      OwlBot Dashboard
+      OwlBot Dashboard<br>
+      Atmospheric Fauna
     </td>
     <td align="center">
       🧪 <strong>Fun fact:</strong><br/>
