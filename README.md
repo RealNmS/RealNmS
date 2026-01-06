@@ -25,7 +25,7 @@
     <td align="center">
       🚀 <strong>Currently working on:</strong><br/>
       OwlBot Dashboard<br>
-      Atmospheric Fauna
+      <a href="https://github.com/RealNmS/Atmospheric-Fauna">Atmospheric Fauna</a>
     </td>
     <td align="center">
       🧪 <strong>Fun fact:</strong><br/>
